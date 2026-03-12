@@ -1,0 +1,21 @@
+package com.jusdots.jusbrowse.data.models
+
+import android.os.Parcelable
+import kotlinx.parcelize.Parcelize
+
+@Parcelize
+data class BrowserTab(
+    val id: String,
+    val url: String = "about:blank",
+    val title: String = "New Tab",
+    val isLoading: Boolean = false,
+    val progress: Float = 0f,
+    val canGoBack: Boolean = false,
+    val canGoForward: Boolean = false,
+    val favicon: String? = null,
+    val isPrivate: Boolean = false,
+    val containerId: String = "default",
+    val isDesktopMode: Boolean = false,
+    val parentGroupId: String? = null,
+    val isGroupMaster: Boolean = false
+) : Parcelable

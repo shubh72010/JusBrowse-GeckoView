@@ -1,0 +1,57 @@
+# Built application files
+*.apk
+*.aab
+*.ap_
+*.aab
+
+# Build outputs
+/build
+app/build/
+app/release/
+
+# Gradle files
+.gradle
+/gradle/wrapper/gradle-wrapper.jar
+gradle-wrapper.jar
+gradle/
+
+# Local configuration
+local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/
+
+# Module files
+*.iml
+
+# macOS
+.DS_Store
+
+# Native build
+.externalNativeBuild
+.cxx
+
+# Captures
+/captures
+
+# Keystore (keep your signing keys out of git)
+*.jks
+*.keystore
+
+# ProGuard
+/proguard/
+
+# Lint
+lint/
+
+# Test results
+/test-results/
+
+# Profiling
+*.hprof
+app/release/
