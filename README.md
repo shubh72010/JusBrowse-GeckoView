@@ -1,11 +1,11 @@
-# JusBrowse — The Stealth-First Privacy Browser for Android
+# JusBrowse — The customisation peaked Privacy Browser for Android
 
 [![Status](https://img.shields.io/badge/Status-Alpha%206.3-orange.svg)]()
 [![Engine](https://img.shields.io/badge/Engine-GeckoView-blue.svg)]()
 [![Privacy](https://img.shields.io/badge/Privacy-Hardened-green.svg)]()
 [![License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](LICENSE)
 
-**JusBrowse** is a high-security, privacy-hardened web browser for Android. Built on the **GeckoView** engine (the foundation of Firefox), it is designed to provide "Tor-style" fingerprinting resistance, privacy-safe analytics, and deep engine-level isolation that standard Chromium-based browsers cannot achieve.
+**JusBrowse** is a high-security, privacy-hardened web browser for Android. Built on the **GeckoView** engine (the foundation of Firefox), it is designed to provide maximum fingerprinting resistance, privacy-safe analytics, and deep engine-level isolation that standard Chromium-based browsers cannot achieve.
 
 > "Privacy is not a checkbox; it’s a war. Every API output can pull off the entire mask."
 
@@ -34,7 +34,7 @@
 
 Explore the project's internal documentation:
 
-- **[Architecture Overview](DOCUMENTATION.md)**: Deep dive into the `NetworkSurgeon`, `PrivacyBus`, and `FakeModeManager`.
+- **[Architecture Overview](DOCUMENTATION.md)**: Deep dive into the "how we protect".
 - **[Installation Guide](INSTALLATION.md)**: How to build from source and run on your device.
 - **[Security & Privacy Claims](SECURITY_CLAIMS.md)**: Detailed breakdown of our fingerprinting defenses and EFF benchmark results.
 - **[Features & FAQ](FAQ.md)**: Frequently asked questions and feature rundown.
