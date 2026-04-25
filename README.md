@@ -1,5 +1,5 @@
-# JusBrowse — The customisation peaked Privacy Browser for Android
-
+# JusBrowse GeckoView - The customisation peaked Privacy Browser for Android
+## (codebase updated on 25 April, 2026)
 [![Status](https://img.shields.io/badge/Status-Alpha%206.3-orange.svg)]()
 [![Engine](https://img.shields.io/badge/Engine-GeckoView-blue.svg)]()
 [![Privacy](https://img.shields.io/badge/Privacy-Hardened-green.svg)]()
