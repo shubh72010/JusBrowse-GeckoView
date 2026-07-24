@@ -1,3 +1,6 @@
+# IMPORTANT: SUCCESOR OF JUSBROWSE GECKOVIEW IS [JUSBROWSE MULBERRY](shubh72010/JusBrowse-GeckoView)
+# THIS REPO IS NOW ARCHIVED
+
 # JusBrowse GeckoView - The customisation peaked Privacy Browser for Android
 ## (codebase updated on 25 April, 2026)
 [![Status](https://img.shields.io/badge/Status-Alpha%206.3-orange.svg)]()
